@@ -1,0 +1,16 @@
+Car Loan
+
+Eligibility:
+1. Employed Graduates
+    1. At least a Degree holder;
+    2. Employed for at least 1 month with a minimum salary of RM2,500;
+    3. Aged between 21 - 30 years old;
+    4. For those with less than 6 months of employment, applications can still be considered if parents or siblings serve as guarantor.;
+2. Undergraduates
+    1. Pursuing a degree in a recognised institution of higher learning;
+    2. Aged between 18 - 30 years old;
+    3. Parents or siblings to serve as guarantor;
+
+
+Interest Rate:
+Base Rate (BR): 3.4% p.a.

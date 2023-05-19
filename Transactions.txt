@@ -1,0 +1,5 @@
+Username: jack123	Password: 123456	Name: Jack	LoanType: EL	CreditCard: 1234567890123456	AmountPaid: 2119.79	PaymentDate: 25/03/2021	Address: London
+Username: mary.poppins	Password: 123456	Name: Mary	LoanType: HL	CreditCard: 0987654321098765	AmountPaid: 866.67	PaymentDate: 25/03/2021	Address: London
+Username: jack123	Password: 123456	Name: Jack	LoanType: EL	CreditCard: 1234567890123456	AmountPaid: 2119.79	PaymentDate: 26/03/2021	Address: London
+Username: bob	Password: 123	Name: Bob	LoanType: EL	CreditCard: 1231231231231231	AmountPaid: 1413.19	PaymentDate: 26/03/2021	Address: Sydney
+Username: tanveer	Password: 1234	Name: tanveer	LoanType: HL	CreditCard: 123123	AmountPaid: 346.67	PaymentDate: 12/12/1212	Address: kl

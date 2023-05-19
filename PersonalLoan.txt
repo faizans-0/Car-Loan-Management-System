@@ -1,0 +1,27 @@
+Personal Loan
+
+Eligibility:
+    1. Malaysian citizen
+    2. Age 21 to 60 years
+    3. A minimum income of RM42,000 per annum
+
+Loan Amounts:
+    Minimum loan amount: RM5,000
+    Maximum loan amount: RM100,000
+
+Tenure:
+    Minimum tenure 2 years
+    Maximum tenure 6 years
+
+Interest Rate:
+    1. 8% per annum fixed rate for loan amounts of RM5,000 to RM20,000
+    2. 7% per annum fixed rate for loan amounts of RM20,001 to RM50,000
+    3. 6.5% per annum fixed rate for loan amounts of RM50,001 to RM100,000
+                        
+Beifits:
+    1. Monthly repayment as low as RM102.78* per month
+    2. No document stamping
+    3. No processing fee
+    4. No guarantor or collaterals required
+    5. Fast Approval
+    6. Personal Care Insurance Protection
